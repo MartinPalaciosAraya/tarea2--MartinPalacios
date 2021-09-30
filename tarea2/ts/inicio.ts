@@ -23,7 +23,7 @@ const $:JQueryStatic=jquery;
       })
   })()
 
-   $("#enviar").on('click', function(event:any){
+    /* $("#enviar").on('click', function(event:any){
     window.location.href = "yallenado.html";
-  })
+  }) */
   
